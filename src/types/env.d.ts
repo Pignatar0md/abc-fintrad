@@ -1,0 +1,30 @@
+declare module '@env' {
+  export const BACKEND_URL: string;
+  export const BACKEND_URL_VERSION: string;
+  export const MESSAGE_URL: string;
+  export const CODE_URL: string;
+  export const CODE_USER: string;
+  export const CODE_PASSWORD: string;
+  export const MESSAGE_PASSWORD: string;
+  export const MESSAGE_USER: string;
+  export const LOGGER_URL: string;
+  export const LOGGER_USER: string;
+  export const LOGGER_PASSWORD: string;
+  export const BIOMETRICS_AUTH_SECRET: string;
+  export const WS_MARKETDATA_ENDPOINT: string;
+  export const WS_MARKETDATA_SYSTEM: string;
+  export const WS_MARKETDATA_USER: string;
+  export const WS_MARKETDATA_PASSWORD: string;
+  export const WS_NOTIFICATIONS_ENDPOINT: string;
+  export const WS_NOTIFICATIONS_SYSTEM: string;
+  export const WS_NOTIFICATIONS_USER: string;
+  export const WS_NOTIFICATIONS_PASSWORD: string;
+  export const WS_NOTIFICATIONS_IDENTITY: string;
+  export const WS_NOTIFICATIONS_COOKIEURL: string;
+  export const DSECURE_URL: string;
+  export const DSECURE_USER: string;
+  export const DSECURE_PASSWORD: string;
+  export const DSECURE_CHALLENGE_TIMEOUT: string;
+  export const DSECURE_CHALLENGE_REQUEST_INTERVAL: string;
+  export const DSECURE_SYSTEM_NAME: string;
+}

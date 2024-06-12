@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "ABC fintrad",
+    "slug": "abc-fintrad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/img/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/img/android/splash/drawable-port-hdpi-screen.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#183C69"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "config": {
+        "usesNonExemptEncryption": false
+      },
+      "bundleIdentifier": "com.abcllc.abcfintrad"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/img/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.abcllc.abcfintrad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c2600722-0b04-4404-bf72-b1f4374149ec"
+      }
+    }
+  }
+}

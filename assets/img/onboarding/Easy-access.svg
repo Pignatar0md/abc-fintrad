@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="83px" viewBox="0 0 94 83" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Easy-acess</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EFX-Mobile-App---Onboarding3" transform="translate(-141.000000, -268.000000)" stroke-width="3.91304348">
+            <g id="Easy-acess" transform="translate(143.000000, 270.000000)">
+                <path d="M90,70.2861048 L4.41450088e-12,70.2861048 C1.73990291e-12,67.509819 -1.8189894e-12,67.509819 -1.8189894e-12,64.0814381 L-1.8189894e-12,0.00039047619 C2.62956522,0.00039047619 2.62956522,0.00039047619 5.86956522,0.00039047619 L90,0.00039047619 C90,2.77667619 90,2.77667619 90,6.20505714 L90,64.0814381 L90,70.2861048 Z" id="Stroke-6880" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <path d="M17.6086957,78.0952381 L72.3913043,78.0952381" id="Stroke-6881" stroke="#B4BFCC" stroke-linecap="square"></path>
+                <path d="M45,70.2857143 L45,78.0952381" id="Stroke-6882" stroke="#B4BFCC" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M0,54.6666667 L90,54.6666667" id="Stroke-6884" stroke="#B4BFCC" stroke-linejoin="round"></path>
+                <polygon id="Stroke-6885" stroke="#42AFB7" points="23.4782609 46.8571429 35.2173913 46.8571429 35.2173913 31.2380952 23.4782609 31.2380952"></polygon>
+                <polygon id="Stroke-6886" stroke="#42AFB7" points="43.0434783 46.8571429 54.7826087 46.8571429 54.7826087 19.5238095 43.0434783 19.5238095"></polygon>
+                <polygon id="Stroke-6887" stroke="#42AFB7" points="62.6086957 46.8571429 74.3478261 46.8571429 74.3478261 11.7142857 62.6086957 11.7142857"></polygon>
+                <path d="M15.6521739,9.76190476 L15.6521739,48.8095238" id="Stroke-6888" stroke="#42AFB7" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

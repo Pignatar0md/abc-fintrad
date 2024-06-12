@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="101px" height="84px" viewBox="0 0 101 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 146@1x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Mobile-App" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Onboarding-Home" transform="translate(-138.000000, -268.000000)" stroke-width="3.52">
+            <g id="Group-146" transform="translate(140.000000, 270.000000)">
+                <path d="M0.0952380952,46.1904762 L42,29.4285714" id="Stroke-6449" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <path d="M8.47619048,42.9168762 L8.47619048,79.7134476" id="Stroke-6450" stroke="#B4BFCC"></path>
+                <path d="M35.7142857,0.0952380952 L96.4761905,37.8095238" id="Stroke-6451" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <path d="M88.0952381,32.7004952 L88.0952381,79.7134476" id="Stroke-6452" stroke="#B4BFCC"></path>
+                <polyline id="Stroke-6453" stroke="#B4BFCC" points="75.5238095 24.8471238 75.5238095 8.47493333 83.9047619 8.47493333 83.9047619 30.0181714"></polyline>
+                <polygon id="Stroke-6454" stroke="#B4BFCC" stroke-linecap="round" points="50.3809524 79.7142857 79.7142857 79.7142857 79.7142857 62.952381 50.3809524 62.952381"></polygon>
+                <path d="M67.1428571,62.952381 L67.1428571,79.7142857" id="Stroke-6455" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <path d="M62.952381,33.6190476 C62.952381,37.0929524 60.136381,39.9047619 56.6666667,39.9047619 C53.1969524,39.9047619 50.3809524,37.0929524 50.3809524,33.6190476 C50.3809524,30.1451429 53.1969524,27.3333333 56.6666667,27.3333333 C60.136381,27.3333333 62.952381,30.1451429 62.952381,33.6190476 L62.952381,33.6190476 Z" id="Stroke-6456" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <polygon id="Stroke-6457" stroke="#42AFB7" stroke-linecap="round" points="16.8571429 79.7142857 33.6190476 79.7142857 33.6190476 58.7619048 16.8571429 58.7619048"></polygon>
+                <path d="M16.8571429,50.3809524 L33.6190476,50.3809524" id="Stroke-6458" stroke="#B4BFCC" stroke-linecap="round"></path>
+                <path d="M42,4.08918095 L42,79.7147048" id="Stroke-6459" stroke="#B4BFCC"></path>
+                <path d="M0.0952380952,79.7142857 L96.4761905,79.7142857" id="Stroke-6448" stroke="#B4BFCC" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>
